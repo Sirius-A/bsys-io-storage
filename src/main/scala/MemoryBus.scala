@@ -8,7 +8,7 @@ import Mode.Read
 
 class MemoryBus {
   var address: Int = 0
-  var date: LocalDate = LocalDate.now()
+  var data: Int = 0
   var mode: Mode = Read
 
 }
